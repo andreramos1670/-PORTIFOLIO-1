@@ -9,7 +9,8 @@ body {
     background: #111;
     color: #eee;
     line-height: 1.5;
-}
+    text-align: justify;
+    }
 
 .header {
     background: #222;
@@ -90,3 +91,4 @@ h2 {
     padding: 20px;
     background: #222;
 }
+
